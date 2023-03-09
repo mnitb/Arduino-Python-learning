@@ -1,2 +1,2 @@
-# Adruino-Python-learning
-missing Adruino files to actual run anything in this projects
+# Arduino-Python-learning
+missing Arduino source codes to actual run anything in this projects
